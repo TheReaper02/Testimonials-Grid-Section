@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project preview](./preview.jpg)
+![Project preview](./images/projectoutput1.png)
 
 ### Links
 
