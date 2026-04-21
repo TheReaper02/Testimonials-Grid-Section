@@ -52,7 +52,7 @@ Users should be able to:
 ## Author
 
 - GitHub - [TheReaper02](https://github.com/TheReaper02)
-- Frontend Mentor - Add your profile link here
+- Frontend Mentor - https://www.frontendmentor.io/profile/TheReaper02
 
 ## Acknowledgments
 
